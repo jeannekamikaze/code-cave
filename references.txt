@@ -1,0 +1,11 @@
+https://en.wikipedia.org/wiki/DLL_injection
+http://www.codeproject.com/Articles/4610/Three-Ways-to-Inject-Your-Code-into-Another-Proces
+http://resources.infosecinstitute.com/code-injection-techniques/
+http://gamehackingadventures.blogspot.com.es/2012/01/10-user-mode-methods-of-code.html
+http://www.blizzhackers.cc/viewtopic.php?p=2483118
+http://www.codeproject.com/Articles/20240/The-Beginners-Guide-to-Codecaves
+http://www.rohitab.com/discuss/topic/39357-code-cave-injection-tutorial-c/
+http://www.codeproject.com/Tips/211962/Bit-Injection-Cave
+
+http://www.codejury.com/a-walk-in-x64-land/
+https://software.intel.com/en-us/articles/introduction-to-x64-assembly
